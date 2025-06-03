@@ -1,0 +1,14 @@
+# Dependencias principales
+python-telegram-bot==20.7
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Pagos PayPal
+python-paypal-api==1.1.0
+
+# Pagos Cripto
+web3==6.11.2
+tronpy==0.1.10
+python-jose==3.3.0
+pycryptodome==3.19.0
+python-magic==0.4.27
