@@ -1,6 +1,6 @@
 # 🤖 Hojutsu Labs Bot
 
-Bot de gestión para los grupos de Telegram **Hojutsu Labs** (gratuito) y **Hojutsu Labs VIP** (privado y pago).
+Modelo para Bot de gestión de grupos de Telegram.
 
 ---
 
